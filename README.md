@@ -4,7 +4,7 @@
 
 PostgreSQL es un sistema de gestión de bases de datos relacional, de código abierto. Conocido por su robustez, capacidad y conformidad con los estándares ANSI SQL. 
 
-### Aqui te mostrare diversas funciones realizadas en el curso de PostgreSQL Aplicado a Ciencia de Datos, en platzi: 
+### Aqui te mostrare diversas funciones realizadas en el curso de PostgreSQL Aplicado a Ciencia de Datos en platzi: 
 
 * Diferencias con otros manejadores y postgreSQL
 * Superpoderes de PLPGSQL
