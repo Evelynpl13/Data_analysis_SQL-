@@ -1,0 +1,10 @@
+CREATE OR REPLACE FUNCTION count_total_movies ()
+RETURNS INT
+language plpgsql
+as $$
+begin 
+return count(*) from peliculas;
+end
+$$;
+
+select count_total_movies ();
